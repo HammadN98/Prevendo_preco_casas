@@ -4,7 +4,7 @@ import pandas as pd
 from joblib import load
 
 
-modelo = open('modelo_preço','rb')
+modelo = open('modelo_preco','rb')
 lm_new = pickle.load(modelo)
 modelo.close()
 
