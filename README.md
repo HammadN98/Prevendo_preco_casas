@@ -1,4 +1,6 @@
-# Prevendo_preco_casas
+# Prevendo preço de casas
+
+## Obejetivos:
 
 ###Costrucao 
 
