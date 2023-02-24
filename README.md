@@ -7,20 +7,20 @@ O projeto tem como objetivo utilazar um algoritimo de machine learn para fazer a
 
 
 
-Descrição do projeto - 
+## Descrição do projeto - 
 
-Requisitos do sistema - 
+## Requisitos do sistema - 
 
-Conjunto de dados - 
+## Conjunto de dados - 
 
-Metodologia - 
+## Metodologia - 
 
-Resultados - 
+## Resultados - 
 
-Conclusões e próximos passos - discuta as conclusões que você tirou dos resultados e quaisquer planos futuros para expandir ou melhorar o projeto.
+## Conclusões -
 
+## Próximos passos - 
 
-
-Instruções de uso - https://hammadn98-prevendo-preco-casas-main-iphxc4.streamlit.app
+## Instruções de uso - https://hammadn98-prevendo-preco-casas-main-iphxc4.streamlit.app
 
 Contato - 
