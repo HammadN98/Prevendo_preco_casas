@@ -3,24 +3,26 @@
 ## Obejetivos:
 O projeto tem como objetivo utilazar um algoritimo de machine learn para fazer a previsao do precos das casas, com base no dataset utilizado.
 
-### Costrucao 
+## Costrucao 
 
 
 
-## Descrição do projeto - 
+### Descrição do projeto - 
 
-## Requisitos do sistema - 
+### Requisitos do sistema - 
 
-## Conjunto de dados - 
+### Conjunto de dados - 
 
-## Metodologia - 
+### Metodologia - 
 
-## Resultados - 
+### Resultados - 
 
-## Conclusões -
+### Conclusões -
 
-## Próximos passos - 
+### Próximos passos - 
 
-## Instruções de uso - https://hammadn98-prevendo-preco-casas-main-iphxc4.streamlit.app
+### Instruções de uso - 
+
+    https://hammadn98-prevendo-preco-casas-main-iphxc4.streamlit.app
 
 Contato - 
