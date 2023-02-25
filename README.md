@@ -5,7 +5,7 @@
 
 ## Objetivos:
   
-    O projeto tem como objetivo fazer um estudo sobre algoritmos de machine learn, neste caso um estudo sobre Regressão Linear, o qual faça irá prever o valor de casa com base em um dataset e suas características, bem como a consolidar conhecimentos sobre o framework Streamlit.
+O projeto tem como objetivo fazer um estudo sobre algoritmos de machine learn, neste caso um estudo sobre Regressão Linear, o qual faça irá prever o valor de casa com base em um dataset e suas características, bem como a consolidar conhecimentos sobre o framework Streamlit.
 
 
 
