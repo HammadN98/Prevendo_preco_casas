@@ -48,9 +48,9 @@ Foi usado um dataset modificado do Kaggle, o qual foi gerado artificialmente ape
 
 
 Dados:
-Preços - Preços do imóveis \n
+Preços - Preços do imóveis 
 Área - Área do imóvel
-\n Garagem - Número de vagas de garagem
+Garagem - Número de vagas de garagem
 Banheiros - Número de banheiros
 Lareira - Número de lareiras
 Mármore - Se o imóvel possui acabamento em mármore branco (1) ou não (0)
